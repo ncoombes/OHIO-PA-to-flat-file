@@ -1,0 +1,2 @@
+This python file accepts a input/output filepath variables and a end of line to characterize a single ETL load of a Ohio Medicare system 
+Prior Authorization file. translates the sequential nested series of P,H,I,D,R records into a single flat table.
